@@ -6,6 +6,7 @@ import lombok.NoArgsConstructor;
 
 // 创建无参构造器
 @NoArgsConstructor
+// 创建了全参构造器
 @AllArgsConstructor
 @Data
 public class MemberPO {
