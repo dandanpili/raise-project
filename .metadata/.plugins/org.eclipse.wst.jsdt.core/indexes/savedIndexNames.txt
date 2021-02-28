@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+E:\eclipse_workspace\raise-project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2367819067.index

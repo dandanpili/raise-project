@@ -1,0 +1,17 @@
+server:
+  port: 4000
+spring:  application:    name: atguigu-crowd-auth
+  thymeleaf:    prefix: classpath:/templates/
+    suffix: .html
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1000/eureka
+short:
+  message:
+    app-code: 4bac7ece03454e4f9b13410582036365  
+    host: https://feginesms.market.alicloudapi.com
+    sign: 1
+    skin: 1
+    path: /codeNotice
+  

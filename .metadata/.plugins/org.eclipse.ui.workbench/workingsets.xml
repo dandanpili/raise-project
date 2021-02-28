@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1614498970782_0" label="Java Main Sources" name="Java Main Sources">
+<item elementID="=atcrowdfunding05-common-util/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=atcrowdfunding05-common-util/src\/main\/resources=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=atcrowdfunding06-common-reverse/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=atcrowdfunding06-common-reverse/src\/main\/resources=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1614498970795_1" label="Java Test Sources" name="Java Test Sources">
+<item elementID="=atcrowdfunding05-common-util/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=atcrowdfunding05-common-util/src\/test\/resources=/test=/true=/=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=atcrowdfunding06-common-reverse/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=atcrowdfunding06-common-reverse/src\/test\/resources=/test=/true=/=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1614500601904_3" label="atcrowdfunding01-admin-parent" name="atcrowdfunding01-admin-parent"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1614500732041_4" label="atcrowdfunding07-member-parent" name="atcrowdfunding07-member-parent">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/atcrowdfunding07-member-parent" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/atcrowdfunding08-member-eureka" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/atcrowdfunding09-member-entity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/atcrowdfunding10-member-mysql-provider" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/atcrowdfunding11-member-redis-provider" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/atcrowdfunding12-member-authentication-consumer" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/atcrowdfunding13-member-project-consumer" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/atcrowdfunding14-member-order-consumer" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/atcrowdfunding15-member-pay-consumer" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/atcrowdfunding16-member-zuul" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/atcrowdfunding17-member-api" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1614498972123_2" label="Window Working Set" name="Aggregate for window 1614498972123"/>
+</workingSetManager>
