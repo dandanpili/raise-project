@@ -4,6 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+// 创建无参构造器
 @NoArgsConstructor
 @AllArgsConstructor
 @Data
